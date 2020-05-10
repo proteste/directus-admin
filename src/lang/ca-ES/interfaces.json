@@ -143,7 +143,7 @@
 			"divider": "Separador",
 			"style-name": "Estil de separador",
 			"style-comment": "Canvia l'estil del separador",
-			"weight-name": "Thickness of the line",
+			"weight-name": "Gruix de la línia",
 			"weight-comment": "Canvia el gruix de la línia",
 			"input-name": "Divisor del text",
 			"input-comment": "Escriviu el vostre text aquí",
@@ -181,8 +181,8 @@
 			"filters": "Filtres",
 			"filters_comment": "Quins filtres s'usen",
 			"accept": "Accepta tots els tipus d'arxiu",
-			"accept_comment": "Set a list of MIME types that can be picked",
-			"allow_delete": "Allow Delete",
+			"accept_comment": "Defineix un llista dels tipus MIME que es poden seleccionar",
+			"allow_delete": "Permet eliminar",
 			"allow_delete_comment": "Allows the user to permanently delete the related file through the file interface",
 			"crop_preview": "Crop File Preview",
 			"crop_preview_comment": "Crops the file preview to fill the available space."
@@ -218,7 +218,7 @@
 			"allow_select": "Allow Select",
 			"allow_select_comment": "Allow the user to select an existing item",
 			"accept": "Accepta tots els tipus d'arxiu",
-			"accept_comment": "Set a list of MIME types that can be picked",
+			"accept_comment": "Defineix un llista dels tipus MIME que es poden seleccionar",
 			"edit_item": "Edit"
 		},
 		"hashed": {
