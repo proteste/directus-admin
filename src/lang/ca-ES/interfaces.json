@@ -237,26 +237,26 @@
 			"small": "Petit",
 			"medium": "Mitjà",
 			"large": "Gran",
-			"secured": "Value Secured"
+			"secured": "Valor segur"
 		},
 		"icon": {
 			"icon": "Icon",
-			"search_placeholder": "Search for an icon..."
+			"search_placeholder": "Cerca un icona..."
 		},
 		"interface-options": {
-			"interface-options": "Interface Options",
-			"interface-field": "Interface Field",
-			"placeholder-comment": "The field that holds the name of the interface",
-			"placeholder-default": "Enter a field name..."
+			"interface-options": "Opcions d'Interfície",
+			"interface-field": "Interfície del camp",
+			"placeholder-comment": "El camp que conté el nom de la interfície",
+			"placeholder-default": "Introduïu un nom pel camp..."
 		},
 		"interface-types": {
-			"interface-types": "Interface types",
-			"interface-field": "Interface Field",
-			"placeholder-comment": "The field that holds the name of the interface",
-			"placeholder-default": "Enter a field name..."
+			"interface-types": "Tipos d'interfície",
+			"interface-field": "Interfície del camp",
+			"placeholder-comment": "El camp que conté el nom de la interfície",
+			"placeholder-default": "Introduïu un nom pel camp..."
 		},
 		"interfaces": {
-			"interfaces": "Interfaces",
+			"interfaces": "Interfícies",
 			"placeholder": "Referència",
 			"placeholder_comment": "Text estàtic que es mostra abans que un valor sigui seleccionat",
 			"placeholder_default": "Choose an interface",
@@ -366,41 +366,41 @@
 			"option": "Opció",
 			"wrap": "Embolcall amb delimitador",
 			"wrap_comment": "Wrap the values with a pair of delimiters to allow strict searching for a single value",
-			"format": "Browse Format",
-			"format_comment": "The output format on the Browse Items page"
+			"format": "Format del navegador",
+			"format_comment": "Format de sortida a la pàgina de navegador d'ítems"
 		},
 		"numeric": {
 			"numeric": "Numeric",
 			"placeholder": "Referència",
 			"placeholder_comment": "Introduïu el text del contenidor",
 			"localized": "Localització",
-			"localized_comment": "Localize the output to the user's locale",
+			"localized_comment": "Localitza la sortida de l'idioma de l'usuari",
 			"icon_left": "Icona a l'esquerra",
 			"icon_left_comment": "Selecciona una icone opcional per mostrar a l'esquerra de l'entrada",
 			"icon_right": "Icona a la dreta",
 			"icon_right_comment": "Selecciona una icona per mostrar a la dreta de l'entrada",
-			"monospace": "Monospace",
-			"monospace_comment": "Use a monospace font"
+			"monospace": "Espai únic",
+			"monospace_comment": "Utilitza tipografia d'espai únic"
 		},
 		"one-to-many": {
-			"o2m": "One to Many",
-			"select_items": "Select the items",
+			"o2m": "Un a Molts",
+			"select_items": "Selecciona els elements",
 			"relation_not_setup": "La relació no s'ha configurat correctament",
 			"visible_columns": "Columnes visibles",
 			"visible_columns_comment": "Afegeix un CSV de les columnes que vols que es mostrin com a previsualització",
 			"preferences": "Llista de les preferències de la Vista",
 			"preferences_comment": "Defineix quines opcions usar per la modal",
 			"template": "Mostra la plantilla",
-			"template_comment": "How to format value on the item browse display",
+			"template_comment": "Com formatejar el valor en el navegador d'ítems",
 			"template_placeholder": "{{title}} — {{author}}",
 			"allow_create": "Premet crear",
 			"allow_create_comment": "Permetre a l'usuari crear un nou element des d'aquesta interfície",
 			"allow_select": "Permet seleccionar",
 			"allow_select_comment": "Permet a l'ususari seleccionar un element existent",
-			"delete_mode": "Delete mode",
-			"delete_mode_comment": "What to do when the user deselects an item",
-			"sort_field": "Sort Field",
-			"sort_field_comment": "The field to store the sort value in"
+			"delete_mode": "Mode d'eliminació",
+			"delete_mode_comment": "Què fer quan l'usuari elimina un element",
+			"sort_field": "Camp d'ordenació",
+			"sort_field_comment": "El camp per desar el valor d'ordenació"
 		},
 		"password": {
 			"password": "Contrasenya",
@@ -408,7 +408,7 @@
 			"hide_comment": "Mostra punts enlloc dels caràcters intruduïts",
 			"placeholder": "Referència",
 			"placeholder_comment": "Introduïu el text del contenidor",
-			"confirm_placeholder": "Confirm password...",
+			"confirm_placeholder": "Confirma la contrasenya...",
 			"show_hash": "Mostra el hashed de sortida",
 			"show_hash_comment": "Mostra el hased desat",
 			"hashing_type": "Tipus de Hash",
@@ -416,23 +416,23 @@
 		},
 		"preview": {
 			"preview": "Preview",
-			"url_template": "URL Template",
+			"url_template": "Plantilla d'URL",
 			"url_template_comment": "A mustache template for a URL to preview content",
 			"preview_item": "Preview this item"
 		},
 		"primary-key": {
 			"primary_key": "Primary Key",
 			"immutable": "Can not be changed",
-			"monospace": "Monospace",
-			"monospace_comment": "Use a monospace font"
+			"monospace": "Espai únic",
+			"monospace_comment": "Utilitza tipografia d'espai únic"
 		},
 		"radio-buttons": {
 			"radio": "Radio Buttons",
 			"choices": "Opcions",
 			"choices_comment": "Introduïu parells de valors de clau JSON amb el valor desat i el text que es mostren.",
 			"option": "Opció",
-			"format": "Browse Format",
-			"format_comment": "The output format on the Browse Items page"
+			"format": "Format del navegador",
+			"format_comment": "Format de sortida a la pàgina de navegador d'ítems"
 		},
 		"rating": {
 			"rating": "Rating",
@@ -536,8 +536,8 @@
 			"icon_right_comment": "Selecciona una icona per mostrar a la dreta de l'entrada",
 			"format": "Pretty Output",
 			"format_comment": "Convert the value to title case",
-			"monospace": "Monospace",
-			"monospace_comment": "Use a monospace font",
+			"monospace": "Espai únic",
+			"monospace_comment": "Utilitza tipografia d'espai únic",
 			"auto": "Automàtic",
 			"small": "Petit",
 			"medium": "Mitjà",
