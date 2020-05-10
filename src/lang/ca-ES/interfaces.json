@@ -417,17 +417,17 @@
 		"preview": {
 			"preview": "Preview",
 			"url_template": "Plantilla d'URL",
-			"url_template_comment": "A mustache template for a URL to preview content",
-			"preview_item": "Preview this item"
+			"url_template_comment": "Una plantilla de previsualització de contingut per una URL",
+			"preview_item": "Visualització prèvia de l'element"
 		},
 		"primary-key": {
 			"primary_key": "Primary Key",
-			"immutable": "Can not be changed",
+			"immutable": "No pot ser canviat",
 			"monospace": "Espai únic",
 			"monospace_comment": "Utilitza tipografia d'espai únic"
 		},
 		"radio-buttons": {
-			"radio": "Radio Buttons",
+			"radio": "Botons de selecció",
 			"choices": "Opcions",
 			"choices_comment": "Introduïu parells de valors de clau JSON amb el valor desat i el text que es mostren.",
 			"option": "Opció",
@@ -435,14 +435,14 @@
 			"format_comment": "Format de sortida a la pàgina de navegador d'ítems"
 		},
 		"rating": {
-			"rating": "Rating",
+			"rating": "Puntuació",
 			"value": "Value",
-			"active_color": "Active Color",
-			"active_color_comment": "Active color of selected stars",
-			"max_stars": "Max Stars",
-			"max_stars_comment": "Number of maximum rating allowed",
-			"display": "Display",
-			"display_comment": "How to display rating values"
+			"active_color": "Color actiu",
+			"active_color_comment": "Color actiu dels estels seleccionats",
+			"max_stars": "Estels màxims",
+			"max_stars_comment": "Nombre màxim de puntuació permès",
+			"display": "Mostra",
+			"display_comment": "Com mostrar valors de puntuació"
 		},
 		"repeater": {
 			"repeater": "Repeater",
@@ -582,7 +582,7 @@
 			"text-active-placeholder": "Enter your text here",
 			"icon-active-name": "Active Icon",
 			"icon-active-comment": "Choose an active icon",
-			"color-active-name": "Active Color",
+			"color-active-name": "Color actiu",
 			"color-active-comment": "Choose the active color"
 		},
 		"translation": {
@@ -609,7 +609,7 @@
 			"name": "Name",
 			"template": "Plantilla",
 			"template_comment": "How to display the user on the item detail page",
-			"display": "Display",
+			"display": "Mostra",
 			"display_comment": "How to display the user on the item browse page",
 			"you": "You will be the creator",
 			"unknown": "Desconegut"
@@ -627,7 +627,7 @@
 			"name": "Name",
 			"template": "Plantilla",
 			"template_comment": "How to display the user on the item detail page",
-			"display": "Display",
+			"display": "Mostra",
 			"display_comment": "How to display the user on the item browse page",
 			"you": "You will be the updater",
 			"unknown": "Desconegut"
