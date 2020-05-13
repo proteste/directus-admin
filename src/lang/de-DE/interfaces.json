@@ -453,7 +453,7 @@
 			"fields_comment": "What fields to show in each repeated row",
 			"limit": "Limit",
 			"limit_comment": "Maximum amount of rows the user can add",
-			"duplicable": "Duplicable rows",
+			"duplicable": "Doppelte Zeilen",
 			"duplicable_comment": "Whether to make rows duplicable or not",
 			"structure": "Struktur",
 			"structure_comment": "Whether to save the JSON as an array of objects or single object with unique keys",
@@ -521,14 +521,14 @@
 			"validation_comment": "A RegEx to check each individual value against",
 			"validation_message": "Validation Message",
 			"validation_message_comment": "A short message to show users if tag validation fails",
-			"validation_message_default": "Please enter a valid tag"
+			"validation_message_default": "Bitte gültigen Tag eingeben"
 		},
 		"text-input": {
 			"input": "Text Input",
 			"placeholder": "Platzhalter",
 			"trim": "Trim",
 			"trim_comment": "Trim surrounding whitespace from the value before saving",
-			"char_count": "Show Character Count",
+			"char_count": "Zeige Zeichenanzahl",
 			"char_count_comment": "Show the remaining characters available",
 			"icon_left": "Icon links",
 			"icon_left_comment": "Optionales Icon, für Anzeige links neben der Eingabe",
