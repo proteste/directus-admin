@@ -159,7 +159,8 @@ export default {
 
 			const source = this.$store.state.settings.values.asset_url_naming;
 
-			return `/${this.currentProjectKey}/assets/${this.image[source]}?key=directus-${size}-${fit}`;
+			// return `/${this.currentProjectKey}/assets/${this.image[source]}?key=directus-${size}-${fit}`;
+			return `http://ec2-18-230-124-212.sa-east-1.compute.amazonaws.com:8080/directus/public/${this.currentProjectKey}/assets/${this.image[source]}?key=directus-${size}-${fit}`;
 		},
 		isImage() {
 			return this.image.type && this.image.type.startsWith('image');
